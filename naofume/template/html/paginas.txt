@@ -1,0 +1,11 @@
+Landing
+Cadastro / Editar
+	nome de usuario
+	meta (quantos meses)
+	quantidade
+	marca
+	privacidade
+Home
+Perfil
+Publicação
+Sobre

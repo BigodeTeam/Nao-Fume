@@ -1,0 +1,17 @@
+*.pyc
+*.pyo
+*.pym
+
+*~
+*.swp
+*.swo
+*.swm
+
+bin
+lib
+lib64
+local
+include
+share
+build
+
